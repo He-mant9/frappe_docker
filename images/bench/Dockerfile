@@ -1,4 +1,4 @@
-FROM debian:bookworm-slim as bench
+FROM debian:12.5-slim as bench
 
 LABEL author=frappé
 
